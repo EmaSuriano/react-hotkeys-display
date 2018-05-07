@@ -1,6 +1,6 @@
 {
   "parser": "babel-eslint",
-  "extends": ["standard", "standard-react"],
+  "extends": ["airbnb-base", "eslint:recommended", "plugin:react/recommended"],
   "env": {
     "es6": true
   },
